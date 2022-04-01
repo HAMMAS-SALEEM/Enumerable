@@ -4,7 +4,7 @@ Implemented in this repository is a module inside a class, and a enumerable. The
 
 ## Getting Started
 
-This repository includes file decode_morse.ru as main program file:
+This repository includes file my_list.rb and enumerable.rb as main program files:
 
 ## Clone and review it
 
@@ -12,7 +12,7 @@ Run the following commands to clone and run it.
 
 ### To clone the repository
 
-  `git clone git@github.com:HAMMAS-SALEEM/Enumerable.git`
+`git clone git@github.com:HAMMAS-SALEEM/Enumerable.git`
 
 ### To enter Directory
 
@@ -21,18 +21,10 @@ Run the following commands to clone and run it.
 ### To Install Gems
 
 `bundle install`
+### running the program
+Open `irb` terminal
+Run load 'my_list.rb' to execute the code
 
-### To run project tests
-
-`npm test`
-
-### To open project with vs code 
-
-`code .`
-
-## Built With
-
-- Ruby
 
 ## Authors
 
@@ -59,7 +51,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Inspiration from Microverse
-- https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/morse_code.md
+- https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/create_your_own_enumerable.md
 
 ## 📝 License
 
