@@ -22,8 +22,8 @@ Run the following commands to clone and run it.
 
 `bundle install`
 ### running the program
-Open `irb` terminal
-Run load 'my_list.rb' to execute the code
+- Open `irb` terminal
+- Run load 'my_list.rb' to execute the code
 
 
 ## Authors
