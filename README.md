@@ -28,7 +28,7 @@ Run the following commands to clone and run it.
 
 ### To open project with vs code 
 
-`code .
+`code .`
 
 ## Built With
 
