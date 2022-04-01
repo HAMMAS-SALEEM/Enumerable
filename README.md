@@ -1,8 +1,34 @@
 # Enumerable
 
+Implemented in this repository is a module inside a class, and a enumerable. The module enumerable will implement a subset of the functionality of Enumerable.
+
 ## Getting Started
 
 This repository includes file decode_morse.ru as main program file:
+
+## Clone and review it
+
+Run the following commands to clone and run it.
+
+### To clone the repository
+
+  `git clone git@github.com:HAMMAS-SALEEM/Enumerable.git`
+
+### To enter Directory
+
+`cd Enumerable`
+
+### To Install Gems
+
+`bundle install`
+
+### To run project tests
+
+`npm test`
+
+### To open project with vs code 
+
+`code .
 
 ## Built With
 
